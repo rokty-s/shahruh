@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+.art {
+    height: 300x;
+    width: 250px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.block {
+    background-color: darkslategray;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
